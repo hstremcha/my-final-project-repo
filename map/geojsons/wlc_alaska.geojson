@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "wlc_alaska",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::102008" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5910276709", "osm_id": "5910276709", "osm_type": "node", "sport": "weightlifting;crossfit", "name": "Alaska Weightlifting", "leisure": "sports_centre", "wheelchair": "", "website": "", "wikidata": "", "toilets:wheelchair": "", "addr:housenumber": "7610", "building": "", "designation": "", "addr:postcode": "99645", "addr:housename": "", "addr:street": "East Palmer-Wasilla Highway", "entrance": "", "addr:city": "Palmer", "addr:state": "AK", "orig_ogc_fid": 25 }, "geometry": { "type": "Point", "coordinates": [ -2723781.229791150428355, 3292786.616120745893568 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5910524308", "osm_id": "5910524308", "osm_type": "node", "sport": "weightlifting;crossfit", "name": "Influence Barbell", "leisure": "sports_centre", "wheelchair": "", "website": "", "wikidata": "", "toilets:wheelchair": "", "addr:housenumber": "", "building": "", "designation": "", "addr:postcode": "", "addr:housename": "", "addr:street": "", "entrance": "", "addr:city": "", "addr:state": "", "orig_ogc_fid": 26 }, "geometry": { "type": "Point", "coordinates": [ -2776693.406577501446009, 3271407.957544790115207 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5910583839", "osm_id": "5910583839", "osm_type": "node", "sport": "weightlifting;crossfit", "name": "Southside Strength", "leisure": "sports_centre", "wheelchair": "", "website": "", "wikidata": "", "toilets:wheelchair": "", "addr:housenumber": "", "building": "", "designation": "", "addr:postcode": "", "addr:housename": "", "addr:street": "", "entrance": "", "addr:city": "", "addr:state": "", "orig_ogc_fid": 27 }, "geometry": { "type": "Point", "coordinates": [ -2779972.614164128899574, 3265127.330092245247215 ] } }
+]
+}
